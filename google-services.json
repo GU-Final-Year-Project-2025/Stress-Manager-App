@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882571647920",
+    "project_id": "stress-manager-29c5a",
+    "storage_bucket": "stress-manager-29c5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882571647920:android:40b19afaebafabd06d9475",
+        "android_client_info": {
+          "package_name": "stress.manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9H-0TJPxYmMxPHA9LCcZjZyzNnJ4JmGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
