@@ -24,6 +24,7 @@ In the output, you'll find options to open the app in a
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-To access the application, create an account and sign-in.
+To access the application, In the Screen, accept the Terms and Conditions then proceed to Create an account and sign-in.
+Alternatively, you could use Username: "jamesmulongo256@gmail.com" Password: "m@smapp" to login
 
 Basic Features include; Perceived Stress Scale Assessment, Simulated Breathing exercises, Guided Meditation media, Mindful practices, Referral System to professionals, Psycho Education, Cartoons and Funny videos.
